@@ -1,0 +1,3 @@
+flask
+xgboost
+sckit-learn==0.23.1
